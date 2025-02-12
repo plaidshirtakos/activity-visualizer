@@ -6,7 +6,7 @@ import { authOptions } from "@/utils/authOptions";
 import { signIn } from "next-auth/react";
 
 export const metadata: Metadata = {
-  title: "Activity Visualizer - Map",
+  title: "Activity Visualizer",
   description: "All your activities on a map",
 };
 
